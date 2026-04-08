@@ -12,7 +12,8 @@
 
 <p align="center">
   <a href="https://youtu.be/qmvMEZHhqGw"><strong>▶️ Click Here to Watch the Full Video Walkthrough</strong></a><br>
-  <a href="https://pegasus-superapp-monorepo.vercel.app/index.html"><strong>🌐 Visit the Official Landing Page & Pricing</strong></a>
+
+> 🚀 **Looking for the latest production-ready version?** > Get the fully updated **Ionic 8 & Angular 18** source code, complete with premium support and comprehensive documentation, at **[SellJustCode.com](https://selljustcode.com)**.
 </p>
 
 <p align="center">
@@ -110,13 +111,13 @@ Stop fighting with disconnected codebases. This architecture is engineered as a 
 
 Whether you have your own development team or need a fully managed setup, choose the tier that fits your needs:
 
-### Tier 1: Developer License ($10)
+### Tier 1: Developer License ($50)
 *Perfect for engineering teams and indie hackers ready to build.*
 - ✅ Full 5-Part Mono-Repo Source Code
 - ✅ Firebase Database Rules & Architecture
 - ✅ Raw SCSS & Design Tokens
 - ✅ Standard Setup Documentation
-> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$10-09A5DB?style=for-the-badge)](https://paystack.com/buy/super-app-mono-repo-ontthv)**
+> **👉 [![Purchase Source Code](https://img.shields.io/badge/Buy_Source_Code--$10-09A5DB?style=for-the-badge)](https://selljustcode.com/)**
 
 ### Tier 2: Enterprise Custom Installation
 *For Founders who want to skip the code and launch immediately. Let our Lead Architect handle the heavy lifting.*
